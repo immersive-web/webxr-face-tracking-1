@@ -82,7 +82,7 @@ Status Text: This WebXR Module is designed as a module to be implemented in addi
 
 
 <pre class="link-defaults">
-spec: webxr-1;
+spec: webxr;
     type: dfn; text: xr device; for: /
     type: dfn; text: xr device; for: XRSession
     type: dfn; text: animation frame; for: XRSession
@@ -208,385 +208,385 @@ Visual examples of expressions {#expression-visuals}
 <section class="non-normative">
 
 <figure>
-<img src="media/neutral.png"/>
+<img src="media/neutral.png">
 <figcaption align="center"><b>neutral</b>
 </figcaption>
 </figure>
 
 <figure>
-<img src="media/brow_lowerer_left.png"/>
+<img src="media/brow_lowerer_left.png">
 <figcaption align="center"><b>{{brow_lowerer_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/brow_lowerer_right.png"/>
+ <img src="media/brow_lowerer_right.png">
 <figcaption align="center"><b>{{brow_lowerer_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/cheek_puff_left.png"/>
+ <img src="media/cheek_puff_left.png">
 <figcaption align="center"><b>{{cheek_puff_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/cheek_puff_right.png"/>
+ <img src="media/cheek_puff_right.png">
 <figcaption align="center"><b>{{cheek_puff_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/cheek_raiser_left.png"/>
+ <img src="media/cheek_raiser_left.png">
 <figcaption align="center"><b>{{cheek_raiser_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/cheek_raiser_right.png"/>
+ <img src="media/cheek_raiser_right.png">
 <figcaption align="center"><b>{{cheek_raiser_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/cheek_suck_left.png"/>
+ <img src="media/cheek_suck_left.png">
 <figcaption align="center"><b>{{cheek_suck_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/cheek_suck_right.png"/>
+ <img src="media/cheek_suck_right.png">
 <figcaption align="center"><b>{{cheek_suck_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/chin_raiser_bottom.png"/>
+ <img src="media/chin_raiser_bottom.png">
 <figcaption align="center"><b>{{chin_raiser_bottom}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/chin_raiser_top.png"/>
+ <img src="media/chin_raiser_top.png">
 <figcaption align="center"><b>{{chin_raiser_top}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/dimpler_left.png"/>
+ <img src="media/dimpler_left.png">
 <figcaption align="center"><b>{{dimpler_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/dimpler_right.png"/>
+ <img src="media/dimpler_right.png">
 <figcaption align="center"><b>{{dimpler_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_closed_left.png"/>
+ <img src="media/eyes_closed_left.png">
 <figcaption align="center"><b>{{eyes_closed_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_closed_right.png"/>
+ <img src="media/eyes_closed_right.png">
 <figcaption align="center"><b>{{eyes_closed_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_down_left.png"/>
+ <img src="media/eyes_look_down_left.png">
 <figcaption align="center"><b>{{eyes_look_down_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_down_right.png"/>
+ <img src="media/eyes_look_down_right.png">
 <figcaption align="center"><b>{{eyes_look_down_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_left_left.png"/>
+ <img src="media/eyes_look_left_left.png">
 <figcaption align="center"><b>{{eyes_look_left_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_left_right.png"/>
+ <img src="media/eyes_look_left_right.png">
 <figcaption align="center"><b>{{eyes_look_left_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_right_left.png"/>
+ <img src="media/eyes_look_right_left.png">
 <figcaption align="center"><b>{{eyes_look_right_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_right_right.png"/>
+ <img src="media/eyes_look_right_right.png">
 <figcaption align="center"><b>{{eyes_look_right_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_up_left.png"/>
+ <img src="media/eyes_look_up_left.png">
 <figcaption align="center"><b>{{eyes_look_up_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/eyes_look_up_right.png"/>
+ <img src="media/eyes_look_up_right.png">
 <figcaption align="center"><b>{{eyes_look_up_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/inner_brow_raiser_left.png"/>
+ <img src="media/inner_brow_raiser_left.png">
 <figcaption align="center"><b>{{inner_brow_raiser_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/inner_brow_raiser_right.png"/>
+ <img src="media/inner_brow_raiser_right.png">
 <figcaption align="center"><b>{{inner_brow_raiser_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/jaw_drop.png"/>
+ <img src="media/jaw_drop.png">
 <figcaption align="center"><b>{{jaw_drop}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/jaw_sideways_left.png"/>
+ <img src="media/jaw_sideways_left.png">
 <figcaption align="center"><b>{{jaw_sideways_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/jaw_sideways_right.png"/>
+ <img src="media/jaw_sideways_right.png">
 <figcaption align="center"><b>{{jaw_sideways_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/jaw_thrust.png"/>
+ <img src="media/jaw_thrust.png">
 <figcaption align="center"><b>{{jaw_thrust}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lid_tightener_left.png"/>
+ <img src="media/lid_tightener_left.png">
 <figcaption align="center"><b>{{lid_tightener_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lid_tightener_right.png"/>
+ <img src="media/lid_tightener_right.png">
 <figcaption align="center"><b>{{lid_tightener_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_corner_depressor_left.png"/>
+ <img src="media/lip_corner_depressor_left.png">
 <figcaption align="center"><b>{{lip_corner_depressor_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_corner_depressor_right.png"/>
+ <img src="media/lip_corner_depressor_right.png">
 <figcaption align="center"><b>{{lip_corner_depressor_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_corner_puller_left.png"/>
+ <img src="media/lip_corner_puller_left.png">
 <figcaption align="center"><b>{{lip_corner_puller_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_corner_puller_right.png"/>
+ <img src="media/lip_corner_puller_right.png">
 <figcaption align="center"><b>{{lip_corner_puller_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_funneler_left_bottom.png"/>
+ <img src="media/lip_funneler_left_bottom.png">
 <figcaption align="center"><b>{{lip_funneler_left_bottom}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_funneler_left_top.png"/>
+ <img src="media/lip_funneler_left_top.png">
 <figcaption align="center"><b>{{lip_funneler_left_top}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_funneler_right_bottom.png"/>
+ <img src="media/lip_funneler_right_bottom.png">
 <figcaption align="center"><b>{{lip_funneler_right_bottom}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_funneler_right_top.png"/>
+ <img src="media/lip_funneler_right_top.png">
 <figcaption align="center"><b>{{lip_funneler_right_top}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_pressor_left.png"/>
+ <img src="media/lip_pressor_left.png">
 <figcaption align="center"><b>{{lip_pressor_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_pressor_right.png"/>
+ <img src="media/lip_pressor_right.png">
 <figcaption align="center"><b>{{lip_pressor_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_pucker_left.png"/>
+ <img src="media/lip_pucker_left.png">
 <figcaption align="center"><b>{{lip_pucker_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_pucker_right.png"/>
+ <img src="media/lip_pucker_right.png">
 <figcaption align="center"><b>{{lip_pucker_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_stretcher_left.png"/>
+ <img src="media/lip_stretcher_left.png">
 <figcaption align="center"><b>{{lip_stretcher_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_stretcher_right.png"/>
+ <img src="media/lip_stretcher_right.png">
 <figcaption align="center"><b>{{lip_stretcher_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_suck_left_bottom.png"/>
+ <img src="media/lip_suck_left_bottom.png">
 <figcaption align="center"><b>{{lip_suck_left_bottom}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_suck_left_top.png"/>
+ <img src="media/lip_suck_left_top.png">
 <figcaption align="center"><b>{{lip_suck_left_top}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_suck_right_bottom.png"/>
+ <img src="media/lip_suck_right_bottom.png">
 <figcaption align="center"><b>{{lip_suck_right_bottom}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_suck_right_top.png"/>
+ <img src="media/lip_suck_right_top.png">
 <figcaption align="center"><b>{{lip_suck_right_top}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_tightener_left.png"/>
+ <img src="media/lip_tightener_left.png">
 <figcaption align="center"><b>{{lip_tightener_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lip_tightener_right.png"/>
+ <img src="media/lip_tightener_right.png">
 <figcaption align="center"><b>{{lip_tightener_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lips_toward.png"/>
+ <img src="media/lips_toward.png">
 <figcaption align="center"><b>{{lips_toward}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lower_lip_depressor_left.png"/>
+ <img src="media/lower_lip_depressor_left.png">
 <figcaption align="center"><b>{{lower_lip_depressor_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/lower_lip_depressor_right.png"/>
+ <img src="media/lower_lip_depressor_right.png">
 <figcaption align="center"><b>{{lower_lip_depressor_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/mouth_left.png"/>
+ <img src="media/mouth_left.png">
 <figcaption align="center"><b>{{mouth_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/mouth_right.png"/>
+ <img src="media/mouth_right.png">
 <figcaption align="center"><b>{{mouth_right}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/nose_wrinkler_left.png"/>
+ <img src="media/nose_wrinkler_left.png">
 <figcaption align="center"><b>{{nose_wrinkler_left}}</b>
 </figcaption>
 </figure>
 
 <figure>
- <img src="media/nose_wrinkler_right.png"/>
+ <img src="media/nose_wrinkler_right.png">
 <figcaption align="center"><b>{{nose_wrinkler_right}}</b>
 </figcaption>
 </figure>
 
  <figure>
- <img src="media/outer_brow_raiser_left.png"/>
+ <img src="media/outer_brow_raiser_left.png">
 <figcaption align="center"><b>{{outer_brow_raiser_left}}</b>
 </figcaption>
 </figure>
 
  <figure>
- <img src="media/outer_brow_raiser_right.png"/>
+ <img src="media/outer_brow_raiser_right.png">
 <figcaption align="center"><b>{{outer_brow_raiser_right}}</b>
 </figcaption>
 </figure>
 
  <figure>
- <img src="media/upper_lid_raiser_left.png"/>
+ <img src="media/upper_lid_raiser_left.png">
 <figcaption align="center"><b>{{upper_lid_raiser_left}}</b>
 </figcaption>
 </figure>
 
  <figure>
- <img src="media/upper_lid_raiser_right.png"/>
+ <img src="media/upper_lid_raiser_right.png">
 <figcaption align="center"><b>{{upper_lid_raiser_right}}</b>
 </figcaption>
 </figure>
 
  <figure>
- <img src="media/upper_lip_raiser_left.png"/>
+ <img src="media/upper_lip_raiser_left.png">
 <figcaption align="center"><b>{{upper_lip_raiser_left}}</b>
 </figcaption>
 </figure>
 
  <figure>
- <img src="media/upper_lip_raiser_right.png"/>
+ <img src="media/upper_lip_raiser_right.png">
 <figcaption align="center"><b>{{upper_lip_raiser_right}}</b>
 </figcaption>
 </figure>
