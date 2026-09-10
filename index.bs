@@ -4,10 +4,10 @@ Title: WebXR Expression Tracking - Level 1
 Group: immersivewebwg
 Status: UD
 
-ED: https://cabanier.github.io/webxr-expression-tracking-1/
-Repository: cabanier/webxr-expression-tracking-1
+ED: https://immersive-web.github.io/webxr-face-tracking-1/
+Repository: immersive-web/webxr-face-tracking-1
 Level: 1
-Mailing List Archives: https://lists.w3.org/Archives/Public/public-immersive-web-wg/
+Mailing List Archives: https://lists.w3.org/Archives/Public/public-immersive-web/
 
 Editor: Rik Cabanier, Meta, cabanier@meta.com
 
